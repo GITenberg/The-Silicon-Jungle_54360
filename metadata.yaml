@@ -1,11 +1,16 @@
 _repo: The-Silicon-Jungle_54360
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54360-h/images/cover.jpg
 creator:
   author:
     agent_name: Rothman, David H.
     gutenberg_agent_id: '47841'
     url: http://www.gutenberg.org/2009/agents/47841
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54360#The-Silicon-Jungle
 gutenberg_issued: '2017-03-14'
 gutenberg_type: Text
 identifiers:
